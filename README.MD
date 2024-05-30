@@ -20,11 +20,11 @@
 --- Instalación de Angular Material.
 
 # PazzYSalvoApp 
--Server Backend.
----- Desarrollado con Swagger en modo Code First.
----- Almacenamiento de la lógica y datos del backend.
----- Documentación de la API generada automáticamente.
----- Implementación de operaciones CRUD y lógica de negocio.
----- Integración con el frontend PazYSalvoAppClient para el intercambio de datos y funcionalidad completa del sistema.
+--Server Backend.
+# -- Desarrollado con Swagger en modo Code First.
+# -- Almacenamiento de la lógica y datos del backend.
+# -- Documentación de la API generada automáticamente.
+# -- Implementación de operaciones CRUD y lógica de negocio.
+# -- Integración con el frontend PazYSalvoAppClient para el intercambio de datos y funcionalidad completa del sistema.
 
-JOHN ALEJANDRO MIRANDA MELGUIZO
+# JOHN ALEJANDRO MIRANDA MELGUIZO
