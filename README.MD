@@ -27,8 +27,7 @@
 --- Ejecutar ng test para ejecutar las pruebas unitarias a través de Karma.
 # -- Pruebas End-to-End.
 --- Ejecutar ng e2e para ejecutar las pruebas end-to-end a través de una plataforma de elección. Se necesita agregar un paquete que implemente capacidades de pruebas end-to-end.
-# -- Ayuda Adicional.
---- Para obtener más ayuda sobre Angular CLI, usar ng help o consultar la página de Resumen y Referencia de Comandos de Angular CLI.
+
 # -- Instalación de Angular.
 --- Creación de un nuevo proyecto con ng new NombreDelProyecto ➡️ PazYSalvoAppClient.
 --- Creación del directorio Components para alojar los diferentes componentes: Side-Menu, Navbar, Login, Facturas.
