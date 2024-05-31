@@ -1,5 +1,11 @@
 # PazYSalvoAppClient
 # -- Instalación y Configuración.
+---en la terminal instalamos el cli de angular
+{
+    
+    npm install -g @angular/cli
+
+}
 --- Generado con Angular CLI versión 17.1.0.
 # -- Servidor de Desarrollo.
 --- Ejecutar ng serve para un servidor de desarrollo. Navegar a http://localhost:4200/. La aplicación se recargará automáticamente si se modifican los archivos fuente.
